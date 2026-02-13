@@ -1,4 +1,4 @@
-# River-Addon-for-OpenGFX2-TropicalGrass
+# River-Addon-for-OpenGFX2-TropicalGrass :ocean:
 Adds extra riverbank sprites for OpenGFX2'TropicalGrass', load it after OpenGFX-TropicalGrass---Landscape-Enhancement  
 Draw by: Zyliety, zephyris, Brickblock1, Sanchimaru, Jezulkim  
 Code by: Zyliety  
