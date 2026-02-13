@@ -1,0 +1,5 @@
+##grflangid 0x01
+STR_GRF_NAME :River Addon for OpenGFX2 'TropicalGrass' {LORRY}
+STR_GRF_DESCRIPTION :Adds extra riverbank sprites for OpenGFX2'TropicalGrass'{}Draw by: Zyliety, zephyris.{}License:GPLv2 or higher
+STR_GRF_URL :https://github.com/OpenTTD/OpenGFX2/tree/main
+
